@@ -1,0 +1,471 @@
+COMPANY,ticker,ticker1
+3M India Ltd,523395,3MINDIA.NS
+Aarti Industries Ltd.,524208,AARTIIND.NS
+ABB India Ltd,500002,ABB.NS
+Abbott India Ltd,500488,ABBOTINDIA.NS
+ACC Ltd,500410,ACC.NS
+Adani Green Energy Ltd,541450,ADANIGREEN.NS
+Adani Ports and Special Economic Zone,532921,ADANIPORTS.NS
+Adani Power Ltd,533096,ADANIPOWER.NS
+Adani Transmission Ltd,539254,ADANITRANS.NS
+Aditya Birla Capital Ltd,540691,ABCAPITAL.NS
+Aditya Birla Fashion and Retail Ltd,535755,ABFRL.NS
+Advanced Enzyme Technologies Ltd,540025,ADVENZYMES.NS
+AIA Engineering Ltd,532683,AIAENG.NS
+Ajanta Pharma Ltd,532331,AJANTPHARM.NS
+Akzo Nobel India Ltd,500710,AKZOINDIA.NS
+Alembic Pharmaceuticals Ltd,533573,APLLTD.NS
+Alkem Laboratories Ltd,539523,ALKEM.NS
+AllCargo Logistics Ltd,532749,ALLCARGO.NS
+Amara Raja Batteries Ltd,500008,AMARAJABAT.NS
+Ambuja Cements Ltd,500425,AMBUJACEM.NS
+Apar Industries Ltd,532259,APARINDS.NS
+Apollo Hospitals Enterprise Ltd,508869,APOLLOHOSP.NS
+Apollo Tyres Ltd,500877,APOLLOTYRE.NS
+Asahi India Glass Ltd,515030,ASAHIINDIA.NS
+Ashok Leyland Ltd,500477,ASHOKLEY.NS
+Ashoka Buildcon Ltd,533271,ASHOKA.NS
+Asian Paints Ltd,500820,ASIANPAINT.NS
+Aster DM Healthcare Ltd,540975,ASTERDM.NS
+Astral Polytechnik Ltd,532830,ASTRAL.NS
+AstraZeneca Pharm India,506820,ASTRAZEN.NS
+Atul Ltd.,500027,ATUL.NS
+AU Small Finance Bank Ltd,540611,AUBANK.NS
+Aurobindo Pharma Ltd,524804,AUROPHARMA.NS
+Avenue Supermarts Ltd,540376,DMART.NS
+Axis Bank Ltd,532215,AXISBANK.NS
+Bajaj Auto Ltd,532977,BAJAJ-AUTO.NS
+Bajaj Consumer Care Ltd,533229,BAJAJCON.NS
+Bajaj Electricals Ltd,500031,BAJAJELEC.NS
+Bajaj Finance Ltd,500034,BAJFINANCE.NS
+Bajaj Finserv Ltd,532978,BAJAJFINSV.NS
+Bajaj Holdings and Investment Ltd,500490,BAJAJHLDNG.NS
+Balkrishna Industries Ltd,502355,BALKRISIND.NS
+Balmer Lawrie & Co. Ltd.,523319,BALMLAWRIE.NS
+Bandhan Bank Ltd,541153,BANDHANBNK.NS
+Bank of Baroda,532134,BANKBARODA.NS
+Bank of India,532149,BANKINDIA.NS
+Bank Of Maharashtra,532525,MAHABANK.NS
+BASF India Limited,500042,BASF.NS
+Bata India Limited,500043,BATAINDIA.NS
+Bayer CropScience Ltd/India,506285,BAYERCROP.NS
+BEML Ltd,500048,BEML.NS
+Berger Paints India Ltd,509480,BERGEPAINT.NS
+Bharat Dynamics Ltd,541143,BDL.NS
+Bharat Electronics Ltd,500049,BEL.NS
+Bharat Forge Ltd,500493,BHARATFORG.NS
+Bharat Heavy Electricals Ltd,500103,BHEL.NS
+Bharat Petroleum Corp Ltd,500547,BPCL.NS
+Bharti Airtel Ltd,532454,BHARTIARTL.NS
+Bharti Infratel Ltd.,534816,INDUSTOWER.NS
+Biocon Ltd,532523,BIOCON.NS
+Birla Corp Ltd,500335,BIRLACORPN.NS
+Bliss Gvs Pharma Ltd,506197,BLISSGVS.NS
+Blue Dart Express Ltd,526612,BLUEDART.NS
+Blue Star Ltd,500067,BLUESTARCO.NS
+Bombay Burmah Trading Corp Ltd.,501425,BBTC.NS
+Bombay Dyeing & Manufacturing Co Ltd,500020,BOMDYEING.NS
+Bosch Ltd,500530,BOSCHLTD.NS
+Britannia Industries Ltd.,500825,BRITANNIA.NS
+Cadila Healthcare Ltd,532321,CADILAHC.NS
+Can Fin Homes Ltd,511196,CANFINHOME.NS
+Canara Bank,532483,CANBK.NS
+Carborundum Universal Ltd,513375,CARBORUNIV.NS
+CARE Ratings Ltd,534804,CARERATING.NS
+Castrol India Ltd,500870,CASTROLIND.NS
+CCL Products (India) Ltd.,519600,CCL.NS
+CEAT Ltd,500878,CEATLTD.NS
+Central Bank of India,532885,CENTRALBK.NS
+Centrum Capital Ltd,501150,CENTRUM.NS
+Century Plyboards India Ltd,532548,CENTURYPLY.NS
+Century Textile & Industries Ltd,500040,CENTURYTEX.NS
+Cera Sanitaryware Ltd,532443,CERA.NS
+CG Power and Industrial Solutions Ltd,500093,CGPOWER.NS
+Chambal Fertilizers & Chemicals Ltd,500085,CHAMBLFERT.NS
+Chennai Petroleum Corp Ltd,500110,CHENNPETRO.NS
+Cholamandalam Financial Holdings Ltd,504973,CHOLAHLDNG.NS
+Cholamandalam Investment & Finance Co. Ltd.,511243,CHOLAFIN.NS
+Cipla Ltd/India,500087,CIPLA.NS
+City Union Bank Ltd.,532210,CUB.NS
+Coal India Ltd,533278,COALINDIA.NS
+Cochin Shipyard Ltd,540678,COCHINSHIP.NS
+Coffee Day Enterprises Ltd,539436,COFFEEDAY.NS
+Colgate-Palmolive India Ltd,500830,COLPAL.NS
+Container Corp Of India,531344,CONCOR.NS
+Coromandel International Ltd,506395,COROMANDEL.NS
+CRISIL Ltd,500092,CRISIL.NS
+Crompton Greaves Consumer Electricals Ltd,539876,CROMPTON.NS
+Cummins India Ltd,500480,CUMMINSIND.NS
+Cyient Ltd,532175,CYIENT.NS
+Dabur India Ltd,500096,DABUR.NS
+DB Corp Ltd,533151,DBCORP.NS
+DCB Bank Ltd,532772,DCBBANK.NS
+DCM Shriram Ltd,523367,DCMSHRIRAM.NS
+Deepak Fertilisers & Petrochemicals Corp. Ltd.,500645,DEEPAKFERT.NS
+Delta Corp. Ltd.,532848,DELTACORP.NS
+Dhanuka Agritech Ltd,507717,DHANUKA.NS
+Dilip Buildcon Ltd,540047,DBL.NS
+Dish TV India Ltd,532839,DISHTV.NS
+Dishman Carbogen Amics Ltd,540701,DCAL.NS
+Divi's Laboratories Ltd,532488,DIVISLAB.NS
+DLF Ltd,532868,DLF.NS
+Dr Reddy's Laboratories Ltd,500124,DRREDDY.NS
+Dr. Lal PathLabs Ltd,539524,LALPATHLAB.NS
+eClerx Services Ltd,532927,ECLERX.NS
+Edelweiss Financial Services Ltd,532922,EDELWEISS.NS
+Eicher Motors Ltd,505200,EICHERMOT.NS
+EID Parry India Ltd,500125,EIDPARRY.NS
+EIH Ltd,500840,EIHOTEL.NS
+Elgi Equipments Ltd.,522074,ELGIEQUIP.NS
+Emami Ltd,531162,EMAMILTD.NS
+Endurance Technologies Ltd,540153,ENDURANCE.NS
+Engineers India Ltd,532178,ENGINERSIN.NS
+Equitas Holdings Ltd,539844,EQUITAS.NS
+Eris Lifesciences Ltd,540596,ERIS.NS
+Escorts Ltd,500495,ESCORTS.NS
+Essel Propack Ltd.,500135,EPL.NS
+Eveready Industries India Ltd,531508,EVEREADY.NS
+Exide Industries Ltd,500086,EXIDEIND.NS
+FDC Ltd,531599,FDC.NS
+Federal Bank Ltd,500469,FEDERALBNK.NS
+Finolex Cables Ltd,500144,FINCABLES.NS
+Firstsource Solutions Ltd,532809,FSL.NS
+Force Motors Ltd,500033,FORCEMOT.NS
+Fortis Healthcare Ltd.,532843,FORTIS.NS
+Future Consumer Ltd,533400,FCONSUMER.NS
+Future Lifestyle Fashions Limited,536507,FLFL.NS
+Future Retail Ltd,540064,FRETAIL.NS
+Gail India Ltd,532155,GAIL.NS
+Galaxy Surfactants Ltd,540935,GALAXYSURF.NS
+Gateway Distriparks Ltd,532622,GDL.NS
+Gayatri Projects Ltd,532767,GAYAPROJ.NS
+GE Power India Ltd,532309,GEPIL.NS
+GE T&D India Ltd,522275,GET&D.NS
+General Insurance Corporation of India,540755,GICRE.NS
+GHCL Ltd,500171,GHCL.NS
+GIC Housing Finance Ltd,511676,GICHSGFIN.NS
+Gillette India Ltd,507815,GILLETTE.NS
+Glenmark Pharmaceuticals Ltd,532296,GLENMARK.NS
+GMR Infrastructure Ltd,532754,GMRINFRA.NS
+Godfrey Phillips India Ltd,500163,GODFRYPHLP.NS
+Godrej Agrovet Ltd,540743,GODREJAGRO.NS
+Godrej Consumer Products Ltd,532424,GODREJCP.NS
+Godrej Industries Ltd,500164,GODREJIND.NS
+Godrej Properties Ltd,533150,GODREJPROP.NS
+Granules India Ltd,532482,GRANULES.NS
+Graphite India Ltd.,509488,GRAPHITE.NS
+Grasim Industries Ltd,500300,GRASIM.NS
+Great Eastern Shipping Co Ltd/The,500620,GESHIP.NS
+Greaves Cotton Ltd.,501455,GREAVESCOT.NS
+Greenply Industries Ltd.,526797,GREENPLY.NS
+Grindwell Norton Ltd,506076,GRINDWELL.NS
+Gujarat Alkalies & Chemicals Ltd.,530001,GUJALKALI.NS
+Gujarat Fluorochemicals,500173,GFLLIMITED.NS
+Gujarat Mineral Development Corp Ltd,532181,GMDCLTD.NS
+Gujarat Narmada Valley Fertilizers and Chemicals Limited,500670,GNFC.NS
+Gujarat Pipavav Port Ltd,533248,GPPL.NS
+Gujarat State Fertilisers & Chemicals Ltd,500690,GSFC.NS
+Gujarat State Petronet Ltd,532702,GSPL.NS
+Gulf Oil Lubricants India Ltd,538567,GULFOILLUB.NS
+Hatsun Agro Products Ltd,531531,HATSUN.NS
+Havells India Ltd,517354,HAVELLS.NS
+HCL Technologies Ltd,532281,HCLTECH.NS
+HDFC Bank Ltd,500180,HDFCBANK.NS
+HDFC Life Insurance Company Ltd,540777,HDFCLIFE.NS
+HEG Ltd,509631,HEG.NS
+HeidelbergCement India Ltd.,500292,HEIDELBERG.NS
+Heritage Foods Ltd,519552,HERITGFOOD.NS
+Hero MotoCorp Ltd,500182,HEROMOTOCO.NS
+Himachal Futuristic Communications Ltd,500183,HFCL.NS
+Himadri Speciality Chemical Ltd,500184,HSCL.NS
+Himatsingka Seide,514043,HIMATSEIDE.NS
+Hindalco Industries Ltd,500440,HINDALCO.NS
+Hindustan Aeronautics Ltd,541154,HAL.NS
+Hindustan Copper,513599,HINDCOPPER.NS
+Hindustan Petroleum Corp Ltd,500104,HINDPETRO.NS
+Hindustan Unilever Ltd,500696,HINDUNILVR.NS
+Hindustan Zinc Ltd,500188,HINDZINC.NS
+Honeywell Automation India Ltd,517174,HONAUT.NS
+Housing and Urban Development Corporation Ltd,540530,HUDCO.NS
+Housing Development Finance Corp (HDFC),500010,HDFC.NS
+HSIL Ltd,500187,HSIL.NS
+ICICI Bank Ltd,532174,ICICIBANK.NS
+ICICI Lombard General Insurance Company Ltd,540716,ICICIGI.NS
+ICICI Prudential Life Insurance Company Ltd,540133,ICICIPRULI.NS
+ICICI Securities Ltd,541179,ISEC.NS
+IDBI Bank Ltd,500116,IDBI.NS
+IDFC First Bank Ltd,539437,IDFCFIRSTB.NS
+IDFC Limited,532659,IDFC.NS
+IFB Industries Ltd,505726,IFBIND.NS
+IFCI Ltd,500106,IFCI.NS
+India Cements Ltd,530005,INDIACEM.NS
+India Tourism Development Corp Ltd,532189,ITDC.NS
+Indiabulls Housing Finance Limited,535789,IBULHSGFIN.NS
+Indiabulls Integrated Services Ltd,533520,YAARII.NS
+Indiabulls Real Estate Ltd,532832,IBREALEST.NS
+Indiabulls Ventures Ltd,532960,DHANI.NS
+Indian Bank,532814,INDIANB.NS
+Indian Energy Exchange Ltd,540750,IEX.NS
+Indian Hotels Co Ltd,500850,INDHOTEL.NS
+Indian Oil Corp Ltd,530965,IOC.NS
+Indian Overseas Bank,532388,IOB.NS
+Indostar Capital Finance Ltd,541336,INDOSTAR.NS
+Indraprastha Gas Ltd,532514,IGL.NS
+IndusInd Bank Ltd,532187,INDUSINDBK.NS
+Infibeam Avenues Ltd,539807,INFIBEAM.NS
+Info Edge (India) Ltd.,532777,NAUKRI.NS
+Inox Leisure,532706,INOXLEISUR.NS
+Inox Wind Ltd,539083,INOXWIND.NS
+Intellect Design Arena Ltd.,538835,INTELLECT.NS
+InterGlobe Aviation Ltd,539448,INDIGO.NS
+Ipca Laboratories Ltd,524494,IPCALAB.NS
+IRB Infrastructure Developers Ltd,532947,IRB.NS
+ISGEC Heavy Engineering Ltd,533033,ISGEC.NS
+ITC Ltd,500875,ITC.NS
+ITD Cementation India Ltd,509496,ITDCEM.NS
+ITI Ltd,523610,ITI.NS
+J. K. Tyre Industries Ltd,530007,JKTYRE.NS
+J.B.Chemicals & Pharmaceuticals Ltd.,506943,JBCHEPHARM.NS
+J.K. Cement Ltd.,532644,JKCEMENT.NS
+Jai Corp Ltd,512237,JAICORPLTD.NS
+Jain Irrigation Systems Ltd,500219,JISLJALEQS.NS
+Jaiprakash Associates Ltd,532532,JPASSOCIAT.NS
+Jammu & Kashmir Bank Ltd,532209,J&KBANK.NS
+Jamna Auto Industries Ltd,520051,JAMNAAUTO.NS
+Jet Airways India Ltd,532617,JETAIRWAYS.NS
+Jindal SAW Ltd,500378,JINDALSAW.NS
+Jindal Stainless (Hisar) Ltd,539597,JSLHISAR.NS
+Jindal Stainless Ltd.,532508,JSL.NS
+Jindal Steel & Power Ltd,532286,JINDALSTEL.NS
+JK Lakshmi Cement Ltd,500380,JKLAKSHMI.NS
+JM Financial Ltd,523405,JMFINANCIL.NS
+Johnson Controls -Hitachi Air Conditioning India Ltd,523398,JCHAC.NS
+JSW Energy Ltd,533148,JSWENERGY.NS
+JSW Steel Ltd,500228,JSWSTEEL.NS
+Jubilant FoodWorks Ltd,533155,JUBLFOOD.NS
+Jubilant Life Sciences Ltd,530019,JUBLPHARMA.NS
+Just Dial Ltd,535648,JUSTDIAL.NS
+Jyothy Laboratories Ltd,532926,JYOTHYLAB.NS
+Kajaria Ceramics Ltd.,500233,KAJARIACER.NS
+Kalpataru Power Transmission Ltd,522287,KALPATPOWR.NS
+Kansai Nerolac Paints Ltd.,500165,KANSAINER.NS
+Karnataka Bank Ltd,532652,KTKBANK.NS
+Kaveri Seed Co Ltd,532899,KSCL.NS
+KEC International Ltd/India,532714,KEC.NS
+KEI Industries Ltd,517569,KEI.NS
+KIOCL Ltd,540680,KIOCL.NS
+KNR Constructions Ltd,532942,KNRCON.NS
+Kotak Mahindra Bank Ltd,500247,KOTAKBANK.NS
+KPR Mill Ltd,532889,KPRMILL.NS
+KRBL Ltd,530813,KRBL.NS
+L&T Finance Holdings Ltd,533519,L&TFH.NS
+L&T Technology Services Ltd,540115,LTTS.NS
+La Opala Rg Ltd.,526947,LAOPALA.NS
+Lakshmi Machine Works Ltd,500252,LAXMIMACH.NS
+Larsen & Toubro Infotech Ltd,540005,LTI.NS
+Larsen & Toubro Ltd,500510,LT.NS
+Laurus Labs Ltd,540222,LAURUSLABS.NS
+Lemon Tree Hotels Ltd,541233,LEMONTREE.NS
+LIC Housing Finance Ltd,500253,LICHSGFIN.NS
+Linde India Ltd,523457,LINDEINDIA.NS
+Lupin Ltd,500257,LUPIN.NS
+Lux Industries Ltd,539542,LUXIND.NS
+Magma Fincorp Ltd.,524000,MAGMA.NS
+Mahanagar Gas Ltd,539957,MGL.NS
+Maharashtra Scooters Ltd.,500266,MAHSCOOTER.NS
+Mahindra & Mahindra Financial Services Ltd,532720,M&MFIN.NS
+Mahindra & Mahindra Ltd,500520,M&M.NS
+Mahindra CIE Automotive Ltd,532756,MAHINDCIE.NS
+Mahindra Holidays & Resorts India Ltd,533088,MHRIL.NS
+Mahindra Lifespace Developers Ltd,532313,MAHLIFE.NS
+Mahindra Logistics Ltd,540768,MAHLOG.NS
+Manappuram Finance Ltd,531213,MANAPPURAM.NS
+Mangalore Refinery & Petrochemicals Ltd,500109,MRPL.NS
+Marico Ltd,531642,MARICO.NS
+Maruti Suzuki India Ltd,532500,MARUTI.NS
+Max Financial Services Ltd,500271,MFSL.NS
+Merck Ltd. (Procter & Gamble Health Ltd),500126,PGHL.NS
+Minda Corporation Ltd,538962,MINDACORP.NS
+Minda Industries Ltd,532539,MINDAIND.NS
+MindTree Ltd,532819,MINDTREE.NS
+MMTC LTD,513377,MMTC.NS
+MOIL Ltd,533286,MOIL.NS
+Motherson Sumi Systems Ltd,517334,MOTHERSUMI.NS
+Motilal Oswal Financial Services Ltd,532892,MOTILALOFS.NS
+MphasiS Ltd,526299,MPHASIS.NS
+MRF Ltd,500290,MRF.NS
+Muthoot Finance Ltd,533398,MUTHOOTFIN.NS
+Narayana Hrudayalaya Ltd,539551,NH.NS
+Natco Pharma Ltd,524816,NATCOPHARM.NS
+National Aluminium Co Ltd,532234,NATIONALUM.NS
+Navin Fluorine International Ltd.,532504,NAVINFLUOR.NS
+Navkar Corporation Ltd,539332,NAVKARCORP.NS
+NBCC (India) Ltd,534309,NBCC.NS
+NCC Ltd/India,500294,NCC.NS
+Nesco Ltd.,505355,NESCO.NS
+Nestle India Ltd,500790,NESTLEIND.NS
+Network 18 Media & Investments Ltd,532798,NETWORK18.NS
+NHPC Ltd,533098,NHPC.NS
+NIIT Technologies Ltd,532541,COFORGE.NS
+Nilkamal Ltd,523385,NILKAMAL.NS
+NLC India Ltd,513683,NLCINDIA.NS
+NMDC Ltd,526371,NMDC.NS
+NOCIL Ltd.,500730,NOCIL.NS
+NTPC Ltd,532555,NTPC.NS
+Oberoi Realty Ltd,533273,OBEROIRLTY.NS
+Oil & Natural Gas Corp Ltd,500312,ONGC.NS
+Oil India Ltd,533106,OIL.NS
+Omaxe Ltd,532880,OMAXE.NS
+Oracle Financial Services Software Ltd,532466,OFSS.NS
+Orient Cement Ltd,535754,ORIENTCEM.NS
+Page Industries Ltd,532827,PAGEIND.NS
+Parag Milk Foods Ltd,539889,PARAGMILK.NS
+PC Jeweller Ltd.,534809,PCJEWELLER.NS
+Persistent Systems Ltd,533179,PERSISTENT.NS
+Petronet LNG Ltd,532522,PETRONET.NS
+Pfizer Ltd (India),500680,PFIZER.NS
+Phillips Carbon Black Ltd,506590,PHILIPCARB.NS
+Phoenix Mills Ltd,503100,PHOENIXLTD.NS
+PI Industries Ltd,523642,PIIND.NS
+Pidilite Industries Ltd,500331,PIDILITIND.NS
+Piramal Enterprises Ltd,500302,PEL.NS
+PNB Housing Finance Ltd,540173,PNBHOUSING.NS
+PNC Infratech Ltd,539150,PNCINFRA.NS
+Power Finance Corp Ltd,532810,PFC.NS
+Power Grid Corp of India Ltd,532898,POWERGRID.NS
+Prestige Estates Projects Ltd,533274,PRESTIGE.NS
+Prism Johnson Ltd,500338,PRSMJOHNSN.NS
+Procter & Gamble Hygiene & Health Care Ltd,500459,PGHH.NS
+PTC India Ltd,532524,PTC.NS
+Punjab National Bank,532461,PNB.NS
+PVR Ltd,532689,PVR.NS
+Quess Corp Ltd,539978,QUESS.NS
+Radico Khaitan Ltd,532497,RADICO.NS
+Rain Industries Limited,500339,RAIN.NS
+Rajesh Exports Ltd,531500,RAJESHEXPO.NS
+Rallis India Ltd,500355,RALLIS.NS
+Ramco Cements Ltd,500260,RAMCOCEM.NS
+Rashtriya Chemicals & Fertilizers Ltd.,524230,RCF.NS
+Ratnamani Metals & Tubes Ltd,520111,RATNAMANI.NS
+Raymond Ltd.,500330,RAYMOND.NS
+RBL Bank Ltd,540065,RBLBANK.NS
+REC Ltd,532955,RECLTD.NS
+Redington India Ltd,532805,REDINGTON.NS
+Relaxo Footwears Ltd,530517,RELAXO.NS
+Reliance Capital Ltd,500111,RELCAPITAL.NS
+Reliance Communications Ltd,532712,RCOM.NS
+Reliance Industries Ltd,500325,RELIANCE.NS
+Reliance Infrastructure Ltd,500390,RELINFRA.NS
+Reliance Nippon Life Asset Management Ltd,540767,NAM-INDIA.NS
+Reliance Power Ltd,532939,RPOWER.NS
+Repco Home Finance Ltd.,535322,REPCOHOME.NS
+S H Kelkar and Company Ltd,539450,SHK.NS
+Sadbhav Engineering Ltd,532710,SADBHAV.NS
+Sanofi India Ltd,500674,SANOFI.NS
+SBI Life Insurance Company Ltd,540719,SBILIFE.NS
+Schaeffler India Ltd,505790,SCHAEFFLER.NS
+Schneider Electric Infrastructure Ltd.,534139,SCHNEIDER.NS
+Security and Intelligence Services (India) Ltd,540673,SIS.NS
+Shankara Building Products Ltd,540425,SHANKARA.NS
+Sharda Cropchem Limited,538666,SHARDACROP.NS
+Sheela Foam Ltd,540203,SFL.NS
+Shilpa Medicare Ltd,530549,SHILPAMED.NS
+Shipping Corp of India Ltd,523598,SCI.NS
+Shoppers Stop Ltd,532638,SHOPERSTOP.NS
+Shree Cement Ltd,500387,SHREECEM.NS
+Shriram City Union Finance Ltd.,532498,SHRIRAMCIT.NS
+Shriram Transport Finance Co Ltd,511218,SRTRANSFIN.NS
+Siemens India Ltd,500550,SIEMENS.NS
+SJVN Ltd,533206,SJVN.NS
+SKF India Ltd,500472,SKFINDIA.NS
+Sobha Limited,532784,SOBHA.NS
+Solar Industries India Ltd,532725,SOLARINDS.NS
+Somany Ceramics Ltd,531548,SOMANYCERA.NS
+Sonata Software Ltd,532221,SONATSOFTW.NS
+South Indian Bank Ltd,532218,SOUTHBANK.NS
+SpiceJet Ltd.,500285,SPICEJET.NS
+SREI Infrastructure Finance Ltd,523756,SREINFRA.NS
+SRF Ltd,503806,SRF.NS
+Star Cement Ltd,540575,STARCEMENT.NS
+State Bank of India,500112,SBIN.NS
+Steel Authority of India Ltd,500113,SAIL.NS
+Sterlite Technologies Ltd.,532374,STLTECH.NS
+Strides Pharma Science Ltd,532531,STAR.NS
+Sudarshan Chemical Industries,506655,SUDARSCHEM.NS
+Sun Pharma Advanced Research Co Ltd,532872,SPARC.NS
+Sun Pharmaceutical Industries Ltd,524715,SUNPHARMA.NS
+Sun TV Network Ltd,532733,SUNTV.NS
+Sundaram Clayton Ltd,520056,SUNCLAYLTD.NS
+Sundaram Fastners,500403,SUNDRMFAST.NS
+Sunteck Realty Ltd,512179,SUNTECK.NS
+Suprajit Engineering Ltd,532509,SUPRAJIT.NS
+Supreme Industries,509930,SUPREMEIND.NS
+Supreme Petrochem Ltd.,500405,SUPPETRO.NS
+Suven Life Sciences Ltd,530239,SUVEN.NS
+Suzlon Energy Ltd,532667,SUZLON.NS
+Swan Energy Ltd.,503310,SWANENERGY.NS
+Symphony Ltd,517385,SYMPHONY.NS
+Syngene International Ltd,539268,SYNGENE.NS
+Take Solutions Ltd,532890,TAKE.NS
+Tamilnadu Newsprint & Papers,531426,TNPL.NS
+Tata Chemicals Ltd,500770,TATACHEM.NS
+Tata Coffee Ltd.,532301,TATACOFFEE.NS
+Tata Communications Ltd,500483,TATACOMM.NS
+Tata Consultancy Services Ltd,532540,TCS.NS
+Tata Elxsi Ltd,500408,TATAELXSI.NS
+Tata Global Beverages Ltd,500800,TATACONSUM.NS
+Tata Investment Corp Ltd,501301,TATAINVEST.NS
+Tata Metaliks Ltd.,513434,TATAMETALI.NS
+Tata Motors Ltd,500570,TATAMOTORS.NS
+Tata Motors Ltd DVR,570001,TATAMTRDVR.NS
+Tata Power Co Ltd,500400,TATAPOWER.NS
+Tata Steel Ltd,500470,TATASTEEL.NS
+TeamLease Services Ltd,539658,TEAMLEASE.NS
+Tech Mahindra Ltd,532755,TECHM.NS
+Tejas Networks Ltd,540595,TEJASNET.NS
+The New India Assurance Company Ltd,540769,NIACL.NS
+Thermax Ltd,500411,THERMAX.NS
+Thomas Cook (India) Ltd,500413,THOMASCOOK.NS
+Thyrocare Technologies Ltd,539871,THYROCARE.NS
+Time Technoplast Ltd.,532856,TIMETECHNO.NS
+Timken India Ltd.,522113,TIMKEN.NS
+Titan Co Ltd,500114,TITAN.NS
+Torrent Pharmaceuticals Ltd,500420,TORNTPHARM.NS
+Torrent Power Ltd,532779,TORNTPOWER.NS
+Trent Ltd.,500251,TRENT.NS
+Trident Ltd.,521064,TRIDENT.NS
+Triveni Turbine Limited,533655,TRITURBINE.NS
+TTK Prestige Ltd,517506,TTKPRESTIG.NS
+Tube Investments Of India,540762,TIINDIA.NS
+TV Today Network,532515,TVTODAY.NS
+TV18 Broadcast Ltd,532800,TV18BRDCST.NS
+TVS Motor Co Ltd,532343,TVSMOTOR.NS
+TVS Srichakra Ltd,509243,TVSSRICHAK.NS
+UCO Bank,532505,UCOBANK.NS
+Uflex Ltd,500148,UFLEX.NS
+Ujjivan Financial Services Ltd,539874,UJJIVAN.NS
+UltraTech Cement Ltd,532538,ULTRACEMCO.NS
+Union Bank of India,532477,UNIONBANK.NS
+United Breweries Ltd,532478,UBL.NS
+UPL Ltd,512070,UPL.NS
+V-Guard Industries Ltd,532953,VGUARD.NS
+V-Mart Retail Limited,534976,VMART.NS
+VA Tech Wabag Ltd,533269,WABAG.NS
+Vardhman Textiles Ltd.,502986,VTL.NS
+Varun Beverages Ltd,540180,VBL.NS
+Vedanta Ltd,500295,VEDL.NS
+Vinati Organics Ltd,524200,VINATIORGA.NS
+VIP Industries Ltd,507880,VIPIND.NS
+Vodafone Idea Ltd,532822,IDEA.NS
+Voltas Ltd,500575,VOLTAS.NS
+WABCO India Ltd,533023,WABCOINDIA.NS
+Welspun Corp Ltd,532144,WELCORP.NS
+Welspun India Ltd.,514162,WELSPUNIND.NS
+Westlife Development Ltd,505533,WESTLIFE.NS
+Whirlpool of India Ltd,500238,WHIRLPOOL.NS
+Wipro Ltd,507685,WIPRO.NS
+Wockhardt Ltd,532300,WOCKPHARMA.NS
+Yes Bank Ltd,532648,YESBANK.NS
+Zee Entertainment Enterprises Ltd,505537,ZEEL.NS
+Zensar Technologies Ltd,504067,ZENSARTECH.NS
+Zydus Wellness Ltd,531335,ZYDUSWELL.NS
