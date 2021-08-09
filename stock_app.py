@@ -3,7 +3,7 @@ import pandas as pd
 from bsedata.bse import BSE
 import yfinance as yf
 import mplfinance as mpl
-import streamlit as st
+import streamlit as st 
 b = BSE()
 from yahoo_fin.stock_info import get_data
 
