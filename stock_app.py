@@ -5,14 +5,15 @@ import yfinance as yf
 import mplfinance as mpl
 import streamlit as st
 b = BSE()
+from yahoo_fin.stock_info import get_data
 
 #st.subheader("**Visually** Show data on a stock!")
 
 st.markdown("""<br>""",True)
 @st.cache(suppress_st_warning=True)
-def get_data(ticker,Start,End):
+def get_data1(ticker,Start,End):
     try:
-        stock_data = yf.download(ticker,Start,End)
+        stock_data = get_data(ticker, start_date= Start, end_date=End )
         return stock_data
     except:
         print(f"No data found for {ticker}")
@@ -88,8 +89,8 @@ dp.reset_index(drop=True, inplace=True)
 
 tic = dp.iloc[0]['ticker1']
 tic_bo = dp.iloc[0]['ticker']
-stock_data = get_data(tic,srt,et)
-# st.write(stock_data)
+stock_data = get_data1(str(tic), srt,et )
+#st.write(stock_data)
 get_info(tic_bo)
 
 
@@ -103,11 +104,11 @@ cp = st.sidebar.selectbox("Select a Graph ",l)
 
 if cp == "Close Value" :
     st.markdown("""<b><center> Closing Price </center></b>""",True)
-    st.line_chart(stock_data['Close'],use_container_width=True)
+    st.line_chart(stock_data['close'],use_container_width=True)
 
 if cp == "Volume" :
     st.markdown("""<b><center> Volume </center></b>""",True)
-    st.line_chart(stock_data['Volume'])
+    st.line_chart(stock_data['volume'])
 
 if cp == "Compare Stock" :
 
@@ -127,7 +128,7 @@ if cp == "Compare Stock" :
     # st.write(dp.iloc[0]['ticker1'])
     tic = dp.iloc[0]['ticker1']
     tic_bo_1 = dp.iloc[0]['ticker']
-    stock_data2 = get_data(tic, srt, et)
+    stock_data2 = get_data1(tic, srt, et)
     kp = st.sidebar.selectbox('Select Parameter to Compare ' ,p)
     get_info(tic_bo_1)
     st.markdown(""" <br>""",True)
@@ -135,46 +136,46 @@ if cp == "Compare Stock" :
     st.markdown(f"<center><b>{sqt}</b> &nbsp;  vs &nbsp;  <b>{serch_it}</b></center>",True)
     if kp == "Close Value" :
         # pass
-        dec = {sqt : stock_data['Close'],
-               serch_it : stock_data2['Close']
+        dec = {sqt : stock_data['close'],
+               serch_it : stock_data2['close']
                }
         df = pd.DataFrame(dec)
         st.line_chart(df)
 
     if kp == "Volume" :
         dec = {
-            sqt : stock_data['Volume'],
-            serch_it : stock_data2['Volume']
+            sqt : stock_data['volume'],
+            serch_it : stock_data2['volume']
         }
         df = pd.DataFrame(dec)
         st.line_chart(df)
 
     if kp == "Highest" :
         dec = {
-            sqt: stock_data['High'],
-            serch_it: stock_data2['High']
+            sqt: stock_data['high'],
+            serch_it: stock_data2['high']
         }
         df = pd.DataFrame(dec)
         st.line_chart(df)
 
     if kp == "Lowest" :
         dec = {
-            sqt : stock_data['Low'],
-            serch_it : stock_data2['Low']
+            sqt : stock_data['low'],
+            serch_it : stock_data2['low']
         }
         df = pd.DataFrame(dec)
         st.line_chart(df)
     if kp == "Adj Close" :
         dec = {
-            sqt : stock_data['Adj Close'],
+            sqt : stock_data['adjclose'],
             serch_it : stock_data2['Adj Close']
         }
         df = pd.DataFrame(dec)
         st.line_chart(df)
     if kp == "Open" :
         dec = {
-            sqt: stock_data['Open'],
-            serch_it: stock_data2['Open']
+            sqt: stock_data['open'],
+            serch_it: stock_data2['open']
         }
         df = pd.DataFrame(dec)
         st.line_chart(df)
