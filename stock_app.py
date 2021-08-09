@@ -3,7 +3,7 @@ import pandas as pd
 from bsedata.bse import BSE
 import yfinance as yf
 import mplfinance as mpl
-import streamlit as st 
+import streamlit as st
 b = BSE()
 from yahoo_fin.stock_info import get_data
 
@@ -12,6 +12,8 @@ from yahoo_fin.stock_info import get_data
 st.markdown("""<br>""",True)
 @st.cache(suppress_st_warning=True)
 def get_data1(ticker,Start,End):
+    if Start == End:
+        Start = '2021-01-01'
     try:
         stock_data = get_data(ticker, start_date= Start, end_date=End )
         return stock_data
@@ -89,6 +91,7 @@ dp.reset_index(drop=True, inplace=True)
 
 tic = dp.iloc[0]['ticker1']
 tic_bo = dp.iloc[0]['ticker']
+
 stock_data = get_data1(str(tic), srt,et )
 #st.write(stock_data)
 get_info(tic_bo)
